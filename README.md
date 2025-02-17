@@ -4,7 +4,7 @@ Accurate and reliable colour detector using python
 This Python project is designed to detect and identify colors in images or video streams. It can be useful in a variety of applications, such as image processing, computer vision, and automation.
 
 Features:
-Color Detection: The project uses image processing techniques to identify and extract prominent colors within an image or video frame.
+Color Detection:The project uses image processing techniques to identify and extract prominent colors within an image or video frame.
 
 Color Identification: It provides information about the identified colors, including their names and corresponding RGB values.
 
